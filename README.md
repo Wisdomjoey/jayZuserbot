@@ -1,5 +1,5 @@
-<p align="center"><a href="https://t.me/jonny4195"><img src="https://telegra.ph/Logo-06-06-3" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/jonny4195"><img src="myktt.jpg" width="3000"></a></p> 
+<h1 align="center"><b>JAYZ USERBOT </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
 
@@ -25,8 +25,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
 ### Locally 🏆
 ```
-$ git clone https://github.com/DevsExpo/FridayUserbot
-$ cd FridayUserbot
+$ git clone https://github.com/Wisdomjoey/jayZUserbot
+$ cd jayZUserbot
 $ python(3) string_gen.py
 ```
 
