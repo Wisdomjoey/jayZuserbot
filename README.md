@@ -25,8 +25,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
 ### Locally 🏆
 ```
-$ git clone https://github.com/Wisdomjoey/jayZUserbot
-$ cd jayZUserbot
+$ git clone https://github.com/Wisdomjoey/jayZuserbot
+$ cd jayZuserbot
 $ python(3) string_gen.py
 ```
 
@@ -34,14 +34,14 @@ $ python(3) string_gen.py
 
 ### Deploying To Heroku ⚙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevsExpo/FridayUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wisdomjoey/jayZuserbot)
 
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/DevsExpo/FridayUserbot
+$ git clone https://github.com/Wisdomjoey/jayZuserbot
 # Open Git Cloned File
-$ cd FridayUserbot
+$ cd jayZuserbot
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Create local.env with variables as given below
